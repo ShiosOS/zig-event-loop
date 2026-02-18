@@ -1,4 +1,4 @@
-# Zig Even Loop Scheduler
+# Zig Event Loop Scheduler
 
 A minimal deterministic event loop implemented in Zig.
 
